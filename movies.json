@@ -19,11 +19,11 @@ movies = {
         "actor": "Kate Winslett"
       },
       {
-        "role": "Cal",
-        "actor": "Billy Zane"
+        "role": "Billy Zane",
+        "actor": "Cal"
       },
       {
-        "role": "The Titanic",
+        "role": "himself",
         "actor": "The Titanic"
       }
     ],
